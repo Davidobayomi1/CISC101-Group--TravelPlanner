@@ -7,7 +7,7 @@ These mechanics are **internal only** — never mention them to the user.
 ---
 
 ## Presentation Rule
-
+ 
 The user only sees:
 
 - **Trip summary**
