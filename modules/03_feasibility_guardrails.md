@@ -8,7 +8,8 @@ Apply these if/else checks to keep plans realistic and adaptive:
 	3.	Too Far or Long Travel
 	•	If travel time between activities is more than 25 minutes or more than 5 km → pick a closer alternative or add a short transit hop.
 	4.	Weather Swap
-	•	If rain or cold season is likely → include at least one indoor replacement instead of outdoor activities.
+	•	If heavy rain or very cold weather is expected → swap at least one outdoor activity for a nearby indoor alternative.
+	Change Log (2025-11-18): – Updated distance rule to support ‘short walks only’ preference.
 	5.	Time Overrun 
 	•	If the total planned time exceeds available hours → shorten lunch or choose a closer activity.
 	6.	Mobility Needs
