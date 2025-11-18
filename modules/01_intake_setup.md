@@ -3,7 +3,7 @@ Module 1 — Intake & Setup
 Collect essential details:
 	•	Destination(s)
 	•	Dates or total trip length
-	•	Number of travelers
+	•	Number of travelers 
 	•	Budget style (affordable, mid-range, luxury)
 	•	Interests (food, culture, nightlife, nature, etc.)
 	•	Preferred pace (relaxed, balanced, fast)
