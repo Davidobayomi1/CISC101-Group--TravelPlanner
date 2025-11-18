@@ -5,7 +5,7 @@ Present the final trip in a clear, friendly structure:
 1. Trip Summary (one paragraph)
 A short overview of the destination, vibe, and what the user will experience.
 
-2. Daily Plan (Markdown Table)
+2. Daily Plan (Markdown Table) 
 Time of Day
 Plan
 Morning
